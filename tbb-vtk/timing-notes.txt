@@ -1,0 +1,51 @@
+# Initial timing results
+leo:tbb-build$ ./pcontour --extent 200
+1 threads
+Merge took 5.64661 seconds
+Report output
+time: 8.32266 seconds
+1359481 points, 2711872 cells
+
+leo:tbb-build$ ./pcontour --extent 200 --fast
+1 threads
+Removed 0 polys
+Merge took 5.51528 seconds
+Report output
+time: 8.18189 seconds
+1359481 points, 2711872 cells
+
+
+# after doing point merging fast
+leo:tbb-build$ ./pcontour --extent 200 --fast
+1 threads
+Removed 0 polys
+Merge took 1.92054 seconds
+Report output
+time: 4.60766 seconds
+1359481 points, 2711872 cells
+
+# after doing our own append
+leo:tbb-build$ ./pcontour --extent 200 --fast
+1 threads
+Merge took 1.77463 seconds
+Report output
+time: 4.45719 seconds
+1359481 points, 2711872 cells
+
+# after separating interior and boundary points
+leo:tbb-build$ ./pcontour --extent 200 --fast
+1 threads
+Merge took 0.691432 seconds
+Report output
+time: 3.35536 seconds
+1359481 points, 2711872 cells
+
+# after reducing copying loops
+# note --fast is on by default now
+leo:tbb-build$ ./pcontour --extent 200 --numThreads 1
+1 threads
+64 pieces
+Merge took 0.525584 seconds
+Report output
+time: 3.29267 seconds
+1359481 points, 2711872 cells

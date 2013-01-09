@@ -1,0 +1,2091 @@
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39285 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.3965 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.3955 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39674 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39659 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39657 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39511 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39367 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39808 seconds
+testparallelfor 0.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39678 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40243 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.3984 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.39964 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40452 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40894 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40907 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40021 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40453 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40975 seconds
+testparallelfor 0.02 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4057 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41378 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41757 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41582 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41026 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41284 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40513 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41595 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41846 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43045 seconds
+testparallelfor 0.04 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59214 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42352 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4563 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42783 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.41202 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.40935 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44119 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.419 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42361 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42041 seconds
+testparallelfor 0.06 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57588 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43415 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43114 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50102 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4928 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42301 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44169 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.424 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42994 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43803 seconds
+testparallelfor 0.08 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4167 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44209 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44949 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45355 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44868 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44328 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48044 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46878 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44314 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4408 seconds
+testparallelfor 0.1 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45205 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44199 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.42596 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43527 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48844 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46106 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43875 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44588 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47714 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45554 seconds
+testparallelfor 0.12 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46141 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47257 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45136 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44561 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43383 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44317 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44811 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46096 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43536 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50957 seconds
+testparallelfor 0.14 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4345 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45529 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47354 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48174 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48299 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47177 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.43753 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47021 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44149 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45483 seconds
+testparallelfor 0.16 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51592 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48304 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50973 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49292 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46034 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45984 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45328 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46719 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44349 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49329 seconds
+testparallelfor 0.18 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47038 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50825 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.501 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45104 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46803 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53359 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49452 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.44953 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47207 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46952 seconds
+testparallelfor 0.2 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45495 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51553 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51758 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50349 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48606 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45903 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47508 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51747 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47101 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.52301 seconds
+testparallelfor 0.22 -p
+PThreads execute
+Spawn 16 threads
+time: 1.45958 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.484 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46583 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48147 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49246 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50479 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47288 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47276 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.52649 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.52907 seconds
+testparallelfor 0.24 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5821 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48916 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60272 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54048 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53672 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50295 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4678 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53683 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50311 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.52807 seconds
+testparallelfor 0.26 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47099 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.4989 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49317 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5472 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51357 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55118 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5535 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55066 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54378 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47537 seconds
+testparallelfor 0.28 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49251 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50177 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50213 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50813 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47777 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53369 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48043 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56239 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.46552 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.47987 seconds
+testparallelfor 0.3 -p
+PThreads execute
+Spawn 16 threads
+time: 1.49367 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51456 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57553 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59018 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51025 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57323 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48552 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53398 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57081 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.52377 seconds
+testparallelfor 0.32 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51559 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51748 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58528 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64113 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53653 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56709 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.48856 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55919 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6111 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58086 seconds
+testparallelfor 0.34 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51644 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59169 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57945 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59067 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54936 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51851 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56299 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54342 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54562 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59575 seconds
+testparallelfor 0.36 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59501 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56392 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5983 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55633 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60475 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60221 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53637 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60276 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60654 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54915 seconds
+testparallelfor 0.38 -p
+PThreads execute
+Spawn 16 threads
+time: 1.50273 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54608 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53567 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61633 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62795 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56116 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6156 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57587 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61697 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61447 seconds
+testparallelfor 0.4 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55708 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51288 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64731 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58376 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56801 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56609 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7242 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6258 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56831 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6194 seconds
+testparallelfor 0.42 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54447 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5896 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63372 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60746 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57625 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.51771 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55291 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55701 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63908 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63727 seconds
+testparallelfor 0.44 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63316 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58657 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56076 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64101 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64867 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69902 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55964 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58583 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57401 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56056 seconds
+testparallelfor 0.46 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56661 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56753 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.65495 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68023 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61348 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63139 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.5686 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59685 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58244 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66278 seconds
+testparallelfor 0.48 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57022 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66744 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57374 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66698 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66229 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66742 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53358 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54122 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60107 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.53049 seconds
+testparallelfor 0.5 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58259 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.54213 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58002 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68258 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68127 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60845 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71418 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67506 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68191 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61285 seconds
+testparallelfor 0.52 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67768 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68652 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70681 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.657 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69115 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60517 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68033 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.65931 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6998 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64212 seconds
+testparallelfor 0.54 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69041 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69658 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61063 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77795 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.55232 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6995 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70529 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70571 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70091 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69907 seconds
+testparallelfor 0.56 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62916 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63187 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62969 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71891 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63252 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69113 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.56245 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71261 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68868 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61839 seconds
+testparallelfor 0.58 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60671 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72701 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72162 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61143 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66482 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70202 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64402 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61299 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73706 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72347 seconds
+testparallelfor 0.6 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62216 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76727 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73429 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73457 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71399 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72758 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63801 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61559 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62342 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63776 seconds
+testparallelfor 0.62 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73366 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57081 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7425 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.57356 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72599 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.74175 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.74168 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72093 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64263 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.61006 seconds
+testparallelfor 0.64 -p
+PThreads execute
+Spawn 16 threads
+time: 1.74167 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.74941 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63566 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76018 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66827 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75977 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66287 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72746 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59813 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75382 seconds
+testparallelfor 0.66 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75204 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7506 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67764 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76836 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58395 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77287 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58654 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76682 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7025 seconds
+testparallelfor 0.68 -p
+PThreads execute
+Spawn 16 threads
+time: 1.58749 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.78067 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77038 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77058 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6858 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68472 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77808 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.68679 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67612 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83582 seconds
+testparallelfor 0.7 -p
+PThreads execute
+Spawn 16 threads
+time: 1.96771 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59778 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59367 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76901 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59542 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67188 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59684 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6974 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.78804 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69372 seconds
+testparallelfor 0.72 -p
+PThreads execute
+Spawn 16 threads
+time: 1.59614 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80459 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.79427 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.79989 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69791 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.69792 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.79946 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.60101 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80259 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73967 seconds
+testparallelfor 0.74 -p
+PThreads execute
+Spawn 16 threads
+time: 1.88806 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73241 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82088 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71054 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70654 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70859 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70841 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80474 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81287 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.71232 seconds
+testparallelfor 0.76 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8114 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81737 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82512 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72097 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67435 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67714 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81909 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81841 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82648 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8166 seconds
+testparallelfor 0.78 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81892 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82896 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81529 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83429 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73385 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73115 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66934 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83716 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72987 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83392 seconds
+testparallelfor 0.8 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83875 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86382 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62814 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.84369 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83798 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83601 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62376 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82406 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.87477 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.859 seconds
+testparallelfor 0.82 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82502 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8646 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85466 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86691 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77391 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85712 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62682 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86024 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75004 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85561 seconds
+testparallelfor 0.84 -p
+PThreads execute
+Spawn 16 threads
+time: 1.87661 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8834 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86936 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75787 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76902 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7011 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86796 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86932 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86769 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8608 seconds
+testparallelfor 0.86 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63289 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85195 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.76543 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75874 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85476 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.67728 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64467 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80144 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7151 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.87354 seconds
+testparallelfor 0.88 -p
+PThreads execute
+Spawn 16 threads
+time: 1.63648 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7631 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 2.1794 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.88296 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.89056 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77896 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.77159 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.64948 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6512 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.88166 seconds
+testparallelfor 0.9 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72342 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.65383 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.65008 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.92818 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.79964 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.72504 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.90373 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.84732 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86143 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.90407 seconds
+testparallelfor 0.92 -p
+PThreads execute
+Spawn 16 threads
+time: 1.78707 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 2.01938 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.85253 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7987 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73353 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.97991 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.78183 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.90576 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.90298 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.73536 seconds
+testparallelfor 0.94 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80281 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.93076 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.66484 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.6632 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.86025 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.74998 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.91837 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81988 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.92492 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.62495 seconds
+testparallelfor 0.96 -p
+PThreads execute
+Spawn 16 threads
+time: 1.79445 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.8298 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.81004 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.7453 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82485 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80299 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70756 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.83897 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.70615 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.93664 seconds
+testparallelfor 0.98 -p
+PThreads execute
+Spawn 16 threads
+time: 1.89928 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80985 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.75084 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.93156 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80546 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.93903 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.869 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.82301 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.80305 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.93692 seconds
+testparallelfor 1.0 -p
+PThreads execute
+Spawn 16 threads
+time: 1.92688 seconds
+unbalance: 0.0
+unbalance: 0.02
+unbalance: 0.04
+unbalance: 0.06
+unbalance: 0.08
+unbalance: 0.1
+unbalance: 0.12
+unbalance: 0.14
+unbalance: 0.16
+unbalance: 0.18
+unbalance: 0.2
+unbalance: 0.22
+unbalance: 0.24
+unbalance: 0.26
+unbalance: 0.28
+unbalance: 0.3
+unbalance: 0.32
+unbalance: 0.34
+unbalance: 0.36
+unbalance: 0.38
+unbalance: 0.4
+unbalance: 0.42
+unbalance: 0.44
+unbalance: 0.46
+unbalance: 0.48
+unbalance: 0.5
+unbalance: 0.52
+unbalance: 0.54
+unbalance: 0.56
+unbalance: 0.58
+unbalance: 0.6
+unbalance: 0.62
+unbalance: 0.64
+unbalance: 0.66
+unbalance: 0.68
+unbalance: 0.7
+unbalance: 0.72
+unbalance: 0.74
+unbalance: 0.76
+unbalance: 0.78
+unbalance: 0.8
+unbalance: 0.82
+unbalance: 0.84
+unbalance: 0.86
+unbalance: 0.88
+unbalance: 0.9
+unbalance: 0.92
+unbalance: 0.94
+unbalance: 0.96
+unbalance: 0.98
+unbalance: 1.0

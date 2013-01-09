@@ -1,0 +1,550 @@
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.01603 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.02068 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.01861 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.02613 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.01689 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.03824 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.02054 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.01699 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.0215 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 0
+0 threads
+64 pieces
+Report output
+time: 4.01869 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.992752 seconds
+Report output
+time: 3.11226 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.992047 seconds
+Report output
+time: 3.13427 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.99683 seconds
+Report output
+time: 3.11333 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.993304 seconds
+Report output
+time: 3.1303 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.995518 seconds
+Report output
+time: 3.1326 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.991369 seconds
+Report output
+time: 3.12805 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.994109 seconds
+Report output
+time: 3.13155 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.992956 seconds
+Report output
+time: 3.13258 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.997384 seconds
+Report output
+time: 3.12008 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 2
+2 threads
+64 pieces
+Merge took 0.991996 seconds
+Report output
+time: 3.11102 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 1.01103 seconds
+Report output
+time: 2.46165 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.996133 seconds
+Report output
+time: 2.43684 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 1.00523 seconds
+Report output
+time: 2.46 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.997078 seconds
+Report output
+time: 2.45276 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.994353 seconds
+Report output
+time: 2.45931 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.994177 seconds
+Report output
+time: 2.43745 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.996325 seconds
+Report output
+time: 2.4371 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.993612 seconds
+Report output
+time: 2.44746 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.992639 seconds
+Report output
+time: 2.44418 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 3
+3 threads
+64 pieces
+Merge took 0.99462 seconds
+Report output
+time: 2.43451 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.995248 seconds
+Report output
+time: 2.07509 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.994435 seconds
+Report output
+time: 2.07284 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.992989 seconds
+Report output
+time: 2.07107 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.994276 seconds
+Report output
+time: 2.0865 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.99407 seconds
+Report output
+time: 2.0759 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.994626 seconds
+Report output
+time: 2.07195 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.993919 seconds
+Report output
+time: 2.08373 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.992481 seconds
+Report output
+time: 2.07138 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.992684 seconds
+Report output
+time: 2.08865 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 4
+4 threads
+64 pieces
+Merge took 0.993083 seconds
+Report output
+time: 2.07203 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.995298 seconds
+Report output
+time: 1.92063 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.994598 seconds
+Report output
+time: 1.90074 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.994424 seconds
+Report output
+time: 1.91628 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.994624 seconds
+Report output
+time: 1.91777 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.995082 seconds
+Report output
+time: 1.95045 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.996134 seconds
+Report output
+time: 1.94456 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.997902 seconds
+Report output
+time: 1.91972 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.99365 seconds
+Report output
+time: 1.91687 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 1.00586 seconds
+Report output
+time: 1.92429 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 5
+5 threads
+64 pieces
+Merge took 0.995594 seconds
+Report output
+time: 1.91408 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.995838 seconds
+Report output
+time: 1.77033 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.993849 seconds
+Report output
+time: 1.77413 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.997658 seconds
+Report output
+time: 1.93735 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.994168 seconds
+Report output
+time: 1.77206 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.996669 seconds
+Report output
+time: 1.779 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.993082 seconds
+Report output
+time: 1.81239 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.995163 seconds
+Report output
+time: 1.77243 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.99765 seconds
+Report output
+time: 1.79014 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.994721 seconds
+Report output
+time: 1.77862 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 6
+6 threads
+64 pieces
+Merge took 0.994747 seconds
+Report output
+time: 1.77866 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.995645 seconds
+Report output
+time: 1.7141 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.995047 seconds
+Report output
+time: 1.70788 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.995204 seconds
+Report output
+time: 1.69322 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.993693 seconds
+Report output
+time: 1.7025 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.991252 seconds
+Report output
+time: 1.67394 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.994282 seconds
+Report output
+time: 1.69714 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.993914 seconds
+Report output
+time: 1.684 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.99259 seconds
+Report output
+time: 1.68139 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.99464 seconds
+Report output
+time: 1.68111 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 7
+7 threads
+64 pieces
+Merge took 0.997376 seconds
+Report output
+time: 1.71456 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.993752 seconds
+Report output
+time: 1.62553 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 1.01513 seconds
+Report output
+time: 1.64192 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.995616 seconds
+Report output
+time: 1.63451 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.992491 seconds
+Report output
+time: 1.6869 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 1.00122 seconds
+Report output
+time: 1.62636 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.994138 seconds
+Report output
+time: 1.64 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.997918 seconds
+Report output
+time: 1.59693 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.992862 seconds
+Report output
+time: 1.65011 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.995354 seconds
+Report output
+time: 1.66341 seconds
+1359481 points, 2711872 cells 
+./pcontour --extent 200 --numThreads 8
+8 threads
+64 pieces
+Merge took 0.993475 seconds
+Report output
+time: 1.64036 seconds
+1359481 points, 2711872 cells 

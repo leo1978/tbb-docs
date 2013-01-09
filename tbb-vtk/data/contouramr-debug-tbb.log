@@ -1,0 +1,720 @@
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.6515 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.709 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7613 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7893 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.735 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7743 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7991 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7692 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7686 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 0
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 0
+numThreads: 0
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 13.7638 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.21817 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.25544 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.23206 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.23124 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.20938 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.22359 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.21644 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.22331 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.20003 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 2
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 7.21716 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 5.00689 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.97032 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.99274 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.97737 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.99176 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 5.00888 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.96807 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 5.0076 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.98249 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 3
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 4.98919 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.86217 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.89032 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.90977 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.88127 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.90193 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.90702 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.92401 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.906 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.87826 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 4
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.88874 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.38987 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.32955 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.34467 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.32246 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.3575 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.32755 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.34422 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.33807 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.33539 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 5
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.33954 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.02325 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.97096 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.97475 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.99779 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.00668 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.96326 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.99725 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 3.01811 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.9913 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 6
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.98757 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.71829 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.70807 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.70636 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.68544 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.72105 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.73319 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.69935 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.70625 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.71468 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 7
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.6878 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.53586 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.51368 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.47535 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.57842 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.52031 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.53693 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.50782 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.46644 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.49829 seconds
+974628 polygons in 19385 blocks
+./contouramr --bigdata --numThreads 8
+data set: /home/leo/pvdata/smooth.flash, dens
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+Done reading AMR
+19385 blocks
+time: 2.52521 seconds
+974628 polygons in 19385 blocks

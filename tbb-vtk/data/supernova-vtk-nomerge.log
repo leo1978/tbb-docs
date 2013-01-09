@@ -1,0 +1,710 @@
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.70261 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69727 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69919 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69725 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.70159 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69885 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69655 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.69962 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.70048 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 0
+0 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Report output
+time: 2.7015 seconds
+2376323 points, 4737950 cells 4737950 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.46898 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47681 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47318 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47653 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47145 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47548 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47528 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.48052 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.46274 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 2
+2 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.47973 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01949 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.0193 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.999407 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.00707 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.00207 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01793 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01402 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01569 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01958 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 3
+3 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 1.01256 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.794776 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.78381 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.772031 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.778974 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.766893 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.798148 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.790667 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.775831 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.778595 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 4
+4 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.790293 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.660451 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.642746 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.724856 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.655204 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.700743 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.654897 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.65093 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.696922 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.656007 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 5
+5 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.64933 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.556454 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.582421 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.595207 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.645034 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.564762 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.560451 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.661882 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.586034 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.555909 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 6
+6 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.585047 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.520716 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.515173 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.52481 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.503484 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.514471 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.506291 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.532151 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.602276 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.630632 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 7
+7 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.533336 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.450103 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.505878 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.466722 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.478901 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.464958 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.510045 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.467135 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.457051 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.480122 seconds
+0 points, 0 cells 0 cell data values
+./pcontour --superNova --noMerge --numThreads 8
+8 threads
+64 pieces
+range: 3.03912e-15 0.114298
+Set contour value: 0.07
+Merge took -1.35724e+09 seconds
+Report output
+time: 0.486146 seconds
+0 points, 0 cells 0 cell data values

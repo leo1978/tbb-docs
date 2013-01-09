@@ -1,0 +1,950 @@
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.6026 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.5915 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.3812 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.5566 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.4506 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.7808 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.3161 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.3755 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.7081 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 0
+numThreads: 0
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.273 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.93427 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.94406 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.98278 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 9.04028 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 9.08013 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.90081 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.99884 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.98769 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.96535 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 2
+numThreads: 2
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 2 threads
+time: 8.90165 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.81273 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.75781 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.78985 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.72713 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.77058 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.73309 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.69878 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.75554 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.74877 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 3
+numThreads: 3
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 3 threads
+time: 6.71686 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 6.01251 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.97197 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.95707 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 6.0076 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.90773 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 6.04968 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 6.07279 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.99272 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.93554 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 4
+numThreads: 4
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 4 threads
+time: 5.93405 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.80325 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.79383 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.72986 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.86174 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.81627 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.88288 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.85493 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.79924 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.79215 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 5
+numThreads: 5
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 5 threads
+time: 5.75329 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.74408 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.90806 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.70095 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.77776 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.94324 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.8068 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.64876 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.77134 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.62756 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 6
+numThreads: 6
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 6 threads
+time: 5.81083 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 6.01144 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.87152 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.95658 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.795 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.83999 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.99479 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.85482 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.96898 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.93821 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 7
+numThreads: 7
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 7 threads
+time: 5.88617 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 5.96577 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.01061 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.04384 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.16501 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.09083 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.08034 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.11474 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.00237 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.10518 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --noTbb --numThreads 8
+numThreads: 8
+1000 traces
+Use vtk for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+Spawn 8 threads
+time: 6.00689 seconds
+Report non-composite
+4732928 points, 2048 cells 

@@ -1,0 +1,630 @@
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41766 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41226 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41457 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.4182 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41786 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41684 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41473 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41629 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41415 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 0
+0 threads
+64 pieces
+Set contour value: 157
+Report output
+time: 2.41025 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0105259 seconds
+Report output
+time: 1.25923 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010478 seconds
+Report output
+time: 1.26029 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0102961 seconds
+Report output
+time: 1.25632 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0105391 seconds
+Report output
+time: 1.25992 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0104189 seconds
+Report output
+time: 1.26222 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0103519 seconds
+Report output
+time: 1.25508 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0102632 seconds
+Report output
+time: 1.25802 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0102799 seconds
+Report output
+time: 1.26215 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010273 seconds
+Report output
+time: 1.25899 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 2
+2 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010247 seconds
+Report output
+time: 1.25762 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0100679 seconds
+Report output
+time: 0.848129 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010061 seconds
+Report output
+time: 0.842461 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00910807 seconds
+Report output
+time: 0.841463 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00921702 seconds
+Report output
+time: 0.843426 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00938892 seconds
+Report output
+time: 0.854032 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00914812 seconds
+Report output
+time: 0.841084 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00926304 seconds
+Report output
+time: 0.854438 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00918698 seconds
+Report output
+time: 0.846366 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00895405 seconds
+Report output
+time: 0.843533 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 3
+3 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00927401 seconds
+Report output
+time: 0.843919 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00922585 seconds
+Report output
+time: 0.654225 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00926089 seconds
+Report output
+time: 0.64023 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00928903 seconds
+Report output
+time: 0.654717 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00886989 seconds
+Report output
+time: 0.667671 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00922704 seconds
+Report output
+time: 0.647753 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0088129 seconds
+Report output
+time: 0.640137 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00918198 seconds
+Report output
+time: 0.677462 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00938106 seconds
+Report output
+time: 0.653645 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00938821 seconds
+Report output
+time: 0.647724 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 4
+4 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00891995 seconds
+Report output
+time: 0.645989 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00897694 seconds
+Report output
+time: 0.55662 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00903702 seconds
+Report output
+time: 0.561014 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00931692 seconds
+Report output
+time: 0.560351 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00921488 seconds
+Report output
+time: 0.549308 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00901723 seconds
+Report output
+time: 0.561309 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00924087 seconds
+Report output
+time: 0.538448 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00910807 seconds
+Report output
+time: 0.549302 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00928497 seconds
+Report output
+time: 0.555732 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00897312 seconds
+Report output
+time: 0.550919 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 5
+5 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00914693 seconds
+Report output
+time: 0.550831 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00914288 seconds
+Report output
+time: 0.477167 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00906491 seconds
+Report output
+time: 0.475038 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00932193 seconds
+Report output
+time: 0.481244 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00924587 seconds
+Report output
+time: 0.469177 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010994 seconds
+Report output
+time: 0.477634 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00903487 seconds
+Report output
+time: 0.485631 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.009372 seconds
+Report output
+time: 0.483898 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00919104 seconds
+Report output
+time: 0.483573 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00912499 seconds
+Report output
+time: 0.476509 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 6
+6 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00923395 seconds
+Report output
+time: 0.500541 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00904584 seconds
+Report output
+time: 0.44382 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00903702 seconds
+Report output
+time: 0.42823 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00929403 seconds
+Report output
+time: 0.42794 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0104859 seconds
+Report output
+time: 0.439641 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0099709 seconds
+Report output
+time: 0.435481 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0102859 seconds
+Report output
+time: 0.440055 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00975299 seconds
+Report output
+time: 0.435842 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010118 seconds
+Report output
+time: 0.441906 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0100069 seconds
+Report output
+time: 0.439987 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 7
+7 threads
+64 pieces
+Set contour value: 157
+Merge took 0.011148 seconds
+Report output
+time: 0.443464 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0112078 seconds
+Report output
+time: 0.390739 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0101061 seconds
+Report output
+time: 0.396518 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.011184 seconds
+Report output
+time: 0.399536 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.0103259 seconds
+Report output
+time: 0.406881 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.011342 seconds
+Report output
+time: 0.395585 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010304 seconds
+Report output
+time: 0.407095 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010175 seconds
+Report output
+time: 0.377986 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.00996113 seconds
+Report output
+time: 0.401885 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.010175 seconds
+Report output
+time: 0.398919 seconds
+95952 points, 190702 cells 190702 cell data values
+./pcontour --extent 200 --filter cutter --numThreads 8
+8 threads
+64 pieces
+Set contour value: 157
+Merge took 0.011272 seconds
+Report output
+time: 0.403219 seconds
+95952 points, 190702 cells 190702 cell data values

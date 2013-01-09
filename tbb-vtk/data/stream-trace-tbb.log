@@ -1,0 +1,880 @@
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.7491 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.869 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.6182 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.405 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.3551 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.8515 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.5818 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.5554 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.4506 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 0
+numThreads: 0
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use the default executive.
+1024 seeds
+1024 chunks
+time: 13.8934 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 9.04996 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.9656 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.98365 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.9952 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.9592 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.95342 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.93376 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 9.00197 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.93553 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 2
+numThreads: 2
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 8.96412 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.71384 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.63092 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.76249 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.76859 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.77808 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.76896 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.74278 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.81551 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.71893 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 3
+numThreads: 3
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.761 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.93607 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.01461 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.02253 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.00602 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.98852 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.03018 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.08075 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.98645 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.04175 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 4
+numThreads: 4
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.00065 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.74312 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.79361 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.82022 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.84054 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.82241 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.83376 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.86513 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.66036 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.82596 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 5
+numThreads: 5
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.81996 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.74609 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.79197 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.75791 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.82716 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.7697 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.62506 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.5764 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.69298 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.81433 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 6
+numThreads: 6
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.69309 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.93001 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.79357 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.9054 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.94455 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.79555 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.76298 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.91857 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.91134 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.96671 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 7
+numThreads: 7
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 5.95159 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.07701 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.10197 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.02122 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.10181 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.02166 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.14849 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.11023 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.14394 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.10853 seconds
+Report non-composite
+4732928 points, 2048 cells 
+./threaded_streamtrace --extent 100 --numTraces 1000 --numThreads 8
+numThreads: 8
+1000 traces
+Use tbb for multithreading
+extent: [-100,100]^3
+Use threaded composite executive.
+1024 seeds
+1024 chunks
+time: 6.11878 seconds
+Report non-composite
+4732928 points, 2048 cells 

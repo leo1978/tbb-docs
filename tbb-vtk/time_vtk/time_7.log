@@ -1,0 +1,80 @@
+big data: 1
+threadedCompositePipeline 1
+numThreads: 1
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 1 threads
+Spawn 1 threads
+time: 13.109 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 2 threads
+Spawn 2 threads
+time: 6.94521 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 3 threads
+Spawn 3 threads
+time: 4.75327 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 4 threads
+Spawn 4 threads
+time: 3.67412 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 5 threads
+Spawn 5 threads
+time: 3.17362 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 6 threads
+Spawn 6 threads
+time: 2.78338 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 7 threads
+Spawn 7 threads
+time: 2.49314 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 1
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+Spawn 8 threads
+Spawn 8 threads
+time: 2.3165 seconds
+974628 polygons

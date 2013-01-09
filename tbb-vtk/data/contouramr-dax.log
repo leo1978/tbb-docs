@@ -1,0 +1,480 @@
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.91816 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.0038 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.907928 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.973091 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.97655 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.987135 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.92051 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.977131 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.977071 seconds
+./contouramr --bigdata --numThreads 1
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.977081 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.974136 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00919 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.952955 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.926652 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.989851 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.881266 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.923286 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.998214 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.991916 seconds
+./contouramr --bigdata --numThreads 2
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00067 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00094 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.937068 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.922829 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.997546 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.995001 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00602 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.943545 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.941913 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00131 seconds
+./contouramr --bigdata --numThreads 3
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.954602 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.980018 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00442 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.976085 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00484 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00067 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.982105 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.965967 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.01419 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.01561 seconds
+./contouramr --bigdata --numThreads 4
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.993189 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.989231 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.988954 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.0056 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.998322 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.990225 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.972775 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00605 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.950548 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.989306 seconds
+./contouramr --bigdata --numThreads 5
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.993916 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.975512 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.884941 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.984026 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.979102 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.965996 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00628 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.986455 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.007 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.944587 seconds
+./contouramr --bigdata --numThreads 6
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.983023 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00335 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.962873 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.970358 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.999744 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.952897 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.997253 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.994519 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.995605 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00423 seconds
+./contouramr --bigdata --numThreads 7
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.867277 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.981098 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.989315 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.925533 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 1.00103 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.998493 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.943917 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.99905 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.980047 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.963966 seconds
+./contouramr --bigdata --numThreads 8
+DAX double Precision
+Loaded amr with 97593 blocks
+144.802 average image size
+2923626 points, 974542 cells
+time: 0.954027 seconds

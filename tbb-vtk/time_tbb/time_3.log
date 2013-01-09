@@ -1,0 +1,68 @@
+big data: 1
+threadedCompositePipeline 1
+numThreads: 1
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 13.1456 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 6.98737 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 4.81269 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 3.76687 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 3.24916 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.9063 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.57372 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.38801 seconds
+974628 polygons
+vtkDebugLeaks has detected LEAKS!
+Class "vtkInformation" has 1 instance still around.
+Class "vtkInformationIntegerValue" has 1 instance still around.
+

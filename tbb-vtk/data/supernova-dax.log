@@ -1,0 +1,240 @@
+./marchingCompare --numThreads 1
+Dax time: 3.01073 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.03128 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.03333 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.02961 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.02446 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.04389 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.03698 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 2.98486 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.02748 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 1
+Dax time: 3.04153 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.7167 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.70661 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.70415 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.72645 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.69755 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.71165 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.73394 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.71821 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.71541 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 2
+Dax time: 1.71515 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.25384 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.26823 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.25491 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.27168 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.27878 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.26577 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.27257 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.27361 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.27836 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 3
+Dax time: 1.26373 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.04347 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.03787 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.03748 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.02642 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.02856 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.02804 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.03253 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.05134 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.03083 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 4
+Dax time: 1.04686 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.918996 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.939024 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.92797 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.931417 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.925864 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.916099 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.926026 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.912681 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.934417 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 5
+Dax time: 0.921862 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.825993 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.843878 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.851209 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.856052 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.877134 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.844769 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.83983 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.842045 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.842808 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 6
+Dax time: 0.833324 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.770525 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.757524 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.769809 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.779763 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.774193 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.776966 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.773542 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.770777 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.783653 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 7
+Dax time: 0.767087 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.737217 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.742255 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.710552 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.736841 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.715581 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.724044 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.72638 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.746547 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.735507 seconds
+Dax produced 14213868 points 4737956 cells
+./marchingCompare --numThreads 8
+Dax time: 0.750633 seconds
+Dax produced 14213868 points 4737956 cells

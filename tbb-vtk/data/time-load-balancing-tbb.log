@@ -1,0 +1,1581 @@
+testparallelfor 0.0
+tbb execute
+time: 1.35988 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34764 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34689 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34874 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34836 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34724 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.3678 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34775 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34904 seconds
+testparallelfor 0.0
+tbb execute
+time: 1.34736 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34688 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.38385 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34872 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.36083 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34737 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.35092 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34816 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34586 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34563 seconds
+testparallelfor 0.02
+tbb execute
+time: 1.34752 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.35348 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.37038 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.34792 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.34956 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.34528 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.34867 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.34724 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.35092 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.35425 seconds
+testparallelfor 0.04
+tbb execute
+time: 1.35015 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.34839 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.349 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.3444 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.35067 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.35109 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.38737 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.34878 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.35143 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.35104 seconds
+testparallelfor 0.06
+tbb execute
+time: 1.34991 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.3472 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.34826 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.35182 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.35708 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.35219 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.34848 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.34893 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.3474 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.34882 seconds
+testparallelfor 0.08
+tbb execute
+time: 1.34849 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35561 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35006 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.3515 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35101 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.34865 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35317 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35456 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.34698 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.35863 seconds
+testparallelfor 0.1
+tbb execute
+time: 1.34913 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34863 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.3509 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34946 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.35002 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34988 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.3566 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34617 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34765 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.3527 seconds
+testparallelfor 0.12
+tbb execute
+time: 1.34966 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34834 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34808 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34919 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.35689 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34749 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.3487 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.35026 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34818 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.34872 seconds
+testparallelfor 0.14
+tbb execute
+time: 1.35072 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35325 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35147 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.3518 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.34969 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35044 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35142 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.34999 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35409 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35314 seconds
+testparallelfor 0.16
+tbb execute
+time: 1.35106 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34861 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34972 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.35087 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34988 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34971 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.3598 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34675 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34831 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.35163 seconds
+testparallelfor 0.18
+tbb execute
+time: 1.34901 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34768 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.3482 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.35531 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34961 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34841 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34738 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34994 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.38562 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34837 seconds
+testparallelfor 0.2
+tbb execute
+time: 1.34953 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.35646 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.34753 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.38247 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.34954 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.35088 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.35144 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.34738 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.35459 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.34824 seconds
+testparallelfor 0.22
+tbb execute
+time: 1.34982 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.38219 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.35294 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.35038 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.34944 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.34908 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.3589 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.38332 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.34931 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.34983 seconds
+testparallelfor 0.24
+tbb execute
+time: 1.35018 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.35306 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.35029 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.35622 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.34949 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.35159 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.34929 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.34669 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.34757 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.34635 seconds
+testparallelfor 0.26
+tbb execute
+time: 1.35119 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.35769 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.38736 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.38666 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.34832 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.34744 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.35111 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.35284 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.35459 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.34853 seconds
+testparallelfor 0.28
+tbb execute
+time: 1.3492 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34851 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34718 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34624 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34788 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.35586 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34735 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.35616 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.35097 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34712 seconds
+testparallelfor 0.3
+tbb execute
+time: 1.34857 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34861 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34921 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.35473 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.35063 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34993 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34701 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34737 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34913 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.34907 seconds
+testparallelfor 0.32
+tbb execute
+time: 1.35678 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34945 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34918 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34615 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34591 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34691 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34973 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34879 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.37496 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.34981 seconds
+testparallelfor 0.34
+tbb execute
+time: 1.35003 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.35043 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34974 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.35116 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34871 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.35426 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34801 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34882 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34907 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34951 seconds
+testparallelfor 0.36
+tbb execute
+time: 1.34938 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.35026 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.34782 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.35813 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.38887 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.34727 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.34988 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.34798 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.34889 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.3506 seconds
+testparallelfor 0.38
+tbb execute
+time: 1.36009 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.34824 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.34784 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.34687 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.3488 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.34838 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.34935 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.41173 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.36662 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.35019 seconds
+testparallelfor 0.4
+tbb execute
+time: 1.35093 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35809 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35377 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35019 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.38453 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35386 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.34829 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.34865 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.3516 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35111 seconds
+testparallelfor 0.42
+tbb execute
+time: 1.35114 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.3493 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.35589 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.34703 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.36278 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.34929 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.34975 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.35086 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.34567 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.34511 seconds
+testparallelfor 0.44
+tbb execute
+time: 1.35445 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35279 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.3453 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35304 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.34688 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.34836 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35093 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35234 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35104 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.34926 seconds
+testparallelfor 0.46
+tbb execute
+time: 1.35182 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.3469 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.3482 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.34932 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.38385 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.35158 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.35031 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.34881 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.34975 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.34863 seconds
+testparallelfor 0.48
+tbb execute
+time: 1.34801 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.35167 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.35635 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.34693 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.34706 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.3495 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.34736 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.34587 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.3476 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.34848 seconds
+testparallelfor 0.5
+tbb execute
+time: 1.35513 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34701 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34801 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34797 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.35125 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34892 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34678 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.35756 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34645 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.34644 seconds
+testparallelfor 0.52
+tbb execute
+time: 1.35126 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.38284 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34897 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34987 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.35234 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.36547 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34737 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34911 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34962 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34842 seconds
+testparallelfor 0.54
+tbb execute
+time: 1.34915 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34746 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.35658 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34935 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34899 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34719 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.35159 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34755 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.35086 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.35707 seconds
+testparallelfor 0.56
+tbb execute
+time: 1.34825 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34878 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34746 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34591 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34587 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34901 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.35186 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.35858 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34968 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34975 seconds
+testparallelfor 0.58
+tbb execute
+time: 1.34821 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.35006 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.35417 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34738 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.35913 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34965 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34848 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34748 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34816 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34729 seconds
+testparallelfor 0.6
+tbb execute
+time: 1.34714 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.34745 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.35974 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.34899 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.34785 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.35067 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.3494 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.34771 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.34845 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.35882 seconds
+testparallelfor 0.62
+tbb execute
+time: 1.35017 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34493 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34903 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.38049 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34782 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34615 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34778 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.35677 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.34693 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.35165 seconds
+testparallelfor 0.64
+tbb execute
+time: 1.3502 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.3855 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34638 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34549 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.36054 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.35059 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34963 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34795 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34854 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34672 seconds
+testparallelfor 0.66
+tbb execute
+time: 1.34705 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34841 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.3576 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34995 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34957 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34767 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34918 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.34906 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.38189 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.35489 seconds
+testparallelfor 0.68
+tbb execute
+time: 1.35259 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.35039 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.34811 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.38463 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.35145 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.3484 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.35783 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.35013 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.34979 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.34931 seconds
+testparallelfor 0.7
+tbb execute
+time: 1.34621 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34624 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34977 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.38322 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.35584 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34528 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34843 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.40065 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34614 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34466 seconds
+testparallelfor 0.72
+tbb execute
+time: 1.34995 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.35709 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.35007 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.34698 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.34727 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.34655 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.34884 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.34482 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.3493 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.35365 seconds
+testparallelfor 0.74
+tbb execute
+time: 1.35093 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.35517 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.34907 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.3477 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.34796 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.38382 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.35694 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.34512 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.3473 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.3489 seconds
+testparallelfor 0.76
+tbb execute
+time: 1.34844 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.34788 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.34703 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.35086 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.35272 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.35011 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.35106 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.38177 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.34628 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.34997 seconds
+testparallelfor 0.78
+tbb execute
+time: 1.34592 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.35694 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.34978 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.34916 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.35354 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.34594 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.349 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.34954 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.35441 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.35503 seconds
+testparallelfor 0.8
+tbb execute
+time: 1.34844 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34897 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34851 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.3445 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.35129 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34763 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.35593 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34875 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34717 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.34954 seconds
+testparallelfor 0.82
+tbb execute
+time: 1.35262 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34929 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34903 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.35808 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34651 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34718 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34755 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34967 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.35002 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.34663 seconds
+testparallelfor 0.84
+tbb execute
+time: 1.35005 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.36101 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.34802 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.40077 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.34728 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.35526 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.34747 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.35021 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.35689 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.41995 seconds
+testparallelfor 0.86
+tbb execute
+time: 1.34851 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34573 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34994 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.3469 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34938 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.38467 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.35985 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34727 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34893 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34636 seconds
+testparallelfor 0.88
+tbb execute
+time: 1.34758 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.35476 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34967 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.36007 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34828 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34905 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.35188 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34765 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34756 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34958 seconds
+testparallelfor 0.9
+tbb execute
+time: 1.34742 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.35441 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.35056 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.34806 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.34986 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.34764 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.38233 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.35047 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.35551 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.34767 seconds
+testparallelfor 0.92
+tbb execute
+time: 1.34764 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.34955 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.34993 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.3477 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.3503 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.35485 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.34954 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.35123 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.34608 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.34733 seconds
+testparallelfor 0.94
+tbb execute
+time: 1.35023 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35348 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.34774 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35854 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35226 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.34612 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.34893 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35016 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.34969 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35036 seconds
+testparallelfor 0.96
+tbb execute
+time: 1.35642 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34802 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34782 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34563 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.35353 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34886 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.35019 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34718 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.35666 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34902 seconds
+testparallelfor 0.98
+tbb execute
+time: 1.34734 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34929 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34644 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34888 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34671 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.35599 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.3478 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34869 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.35092 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34892 seconds
+testparallelfor 1.0
+tbb execute
+time: 1.34686 seconds
+unbalance: 0.0
+unbalance: 0.02
+unbalance: 0.04
+unbalance: 0.06
+unbalance: 0.08
+unbalance: 0.1
+unbalance: 0.12
+unbalance: 0.14
+unbalance: 0.16
+unbalance: 0.18
+unbalance: 0.2
+unbalance: 0.22
+unbalance: 0.24
+unbalance: 0.26
+unbalance: 0.28
+unbalance: 0.3
+unbalance: 0.32
+unbalance: 0.34
+unbalance: 0.36
+unbalance: 0.38
+unbalance: 0.4
+unbalance: 0.42
+unbalance: 0.44
+unbalance: 0.46
+unbalance: 0.48
+unbalance: 0.5
+unbalance: 0.52
+unbalance: 0.54
+unbalance: 0.56
+unbalance: 0.58
+unbalance: 0.6
+unbalance: 0.62
+unbalance: 0.64
+unbalance: 0.66
+unbalance: 0.68
+unbalance: 0.7
+unbalance: 0.72
+unbalance: 0.74
+unbalance: 0.76
+unbalance: 0.78
+unbalance: 0.8
+unbalance: 0.82
+unbalance: 0.84
+unbalance: 0.86
+unbalance: 0.88
+unbalance: 0.9
+unbalance: 0.92
+unbalance: 0.94
+unbalance: 0.96
+unbalance: 0.98
+unbalance: 1.0

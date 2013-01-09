@@ -1,0 +1,64 @@
+big data: 1
+threadedCompositePipeline 1
+numThreads: 1
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 13.2217 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 2
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 6.97343 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 3
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 4.81618 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 4
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 3.73524 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 5
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 3.22152 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 6
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.88971 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 7
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.62786 seconds
+974628 polygons
+big data: 1
+threadedCompositePipeline 1
+numThreads: 8
+noTbb: 0
+/home/leo/pvdata/smooth.flash
+Done reading AMR
+time: 2.4435 seconds
+974628 polygons
